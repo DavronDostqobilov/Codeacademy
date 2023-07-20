@@ -4,7 +4,7 @@
 
 # Integrated developmend environment (IDE) and VScode 
 
- IDE -- Integratsiyalashgan rivojlanish muhiti
+IDE -- Integratsiyalashgan rivojlanish muhiti
 Muxitlarning 2 ta asosiy turi bor
 1. Interactive Mode
 bu yozish jarayonida tekshirish
