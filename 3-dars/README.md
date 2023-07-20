@@ -3,6 +3,12 @@ Pythonda o`zgaruvchi yaratish qoidalari
 O`zgaruvchilar har doim a-z va A-Z va ' _ ' shu belgi va harflar  orqali boshlanadi
 O`zgaruvchilar harf ,' _ ' va sonlardan tashkil topgan har xil uzunlikdagi nom hisoblanadi
 masalan: a1=10, _a1=20, age=19
+
+Data types
+Integer -- butun sonlar, 
+Float -- Haqiqiy sonlar, 
+String -- satr, 
+Boolean -- mantiq, 
 # Comments and Docstrings
 Comments, dastur kodida qo'shimcha ma'lumotlarni yozish uchun ishlatiladi. Bu ma'lumotlar, kodni o'qib chiqadigan shaxsga kodni tushunishda yordam beradi. 
 #text  and  """text"""
@@ -17,6 +23,17 @@ division /
 modulas % (qoldiqli bo`lish)
 floor division // (butun bo`lish)
 exponent **  (daraja)
+
+# Assignment Operators
+Belgilash operatorlari
+x=4
+x+=4
+x-=4
+x*=4
+x/=4
+x%=4
+x//=4
+x**=4
 
 
 # Operator presedense
