@@ -1,41 +1,43 @@
 # Basic variables and data types
-
-
+Pythonda o`zgaruvchi yaratish qoidalari
+O`zgaruvchilar har doim a-z va A-Z va ' _ ' shu belgi va harflar  orqali boshlanadi
+O`zgaruvchilar harf ,' _ ' va sonlardan tashkil topgan har xil uzunlikdagi nom hisoblanadi
+masalan: a1=10, _a1=20, age=19
 # Comments and Docstrings
-    Comments, dastur kodida qo'shimcha ma'lumotlarni yozish uchun ishlatiladi. Bu ma'lumotlar, kodni o'qib chiqadigan shaxsga kodni tushunishda yordam beradi. 
-    #text  and  """text"""
+Comments, dastur kodida qo'shimcha ma'lumotlarni yozish uchun ishlatiladi. Bu ma'lumotlar, kodni o'qib chiqadigan shaxsga kodni tushunishda yordam beradi. 
+#text  and  """text"""
 
 
 
 # Arithmatic Operators
-    addition +
-    subtraction -
-    multipcation *
-    division /
-    modulas % (qoldiqli bo`lish)
-    floor division // (butun bo`lish)
-    exponent **  (daraja)
+addition +
+subtraction -
+multipcation *
+division /
+modulas % (qoldiqli bo`lish)
+floor division // (butun bo`lish)
+exponent **  (daraja)
 
 
 # Operator presedense
 
-    Amallar ustivorligi
-    1. ()
-    2. **
-    3. *,/,//,%
-    4. +,- 
+Amallar ustivorligi
+1. ()
+2. **
+3. *,/,//,%
+4. +,- 
     
 # Numeric data type
 
 
-    Sonlar (numeric data type), raqam, o'lcham, sonlar va hisoblash bilan bog'liq ma'lumotlarni ifodalash uchun ishlatiladi. Bu ma'lumot turi, sonlarni saqlash, hisoblash va ulardan foydalanish imkonini beradi.
+Sonlar (numeric data type), raqam, o'lcham, sonlar va hisoblash bilan bog'liq ma'lumotlarni ifodalash uchun ishlatiladi. Bu ma'lumot turi, sonlarni saqlash, hisoblash va ulardan foydalanish imkonini beradi.
 
-    Python tilida, quyidagi asosiy son ma'lumot turlari mavjud:
+Python tilida, quyidagi asosiy son ma'lumot turlari mavjud:
 
-    1. Integers (Butun sonlar): Butun sonlar, musbat yoki manfiy bo'lishi mumkin bo'lgan raqamlardir. Masalan, 0, 10, -5, 1000 kabi. Integers Python'da "int" turida ifodalangan.
+1. Integers (Butun sonlar): Butun sonlar, musbat yoki manfiy bo'lishi mumkin bo'lgan raqamlardir. Masalan, 0, 10, -5, 1000 kabi. Integers Python'da "int" turida ifodalangan.
 
-    2. Floats (O'nlik sonlar): O'nlik sonlar, raqamning o'nlik hisoblangan versiyasidir. Ular desimal sanoq sistemida ifodalangan sonlardir. Masalan, 3.14, -0.5, 2.0 kabi. Floatlar Python'da "float" turida ifodalangan.
+2. Floats (O'nlik sonlar): O'nlik sonlar, raqamning o'nlik hisoblangan versiyasidir. Ular desimal sanoq sistemida ifodalangan sonlardir. Masalan, 3.14, -0.5, 2.0 kabi. Floatlar Python'da "float" turida ifodalangan.
 
-    3. Complex Numbers (Kompleks sonlar): Kompleks sonlar, haqiqiy va jazavli qismatlardan iborat sonlar bo'ladi. Jazavli qismat "j" belgisi bilan ifodalangan. Masalan, 2+3j, -1-4j kabi. Kompleks sonlar Python'da "complex" turida ifodalangan.
+3. Complex Numbers (Kompleks sonlar): Kompleks sonlar, haqiqiy va jazavli qismatlardan iborat sonlar bo'ladi. Jazavli qismat "j" belgisi bilan ifodalangan. Masalan, 2+3j, -1-4j kabi. Kompleks sonlar Python'da "complex" turida ifodalangan.
 
-    Python tilida sonlarni o'zaro amallar bilan hisoblash, ularni qo'shish, ayirish, ko'paytirish, bo'lish va boshqalar kabi arifmetik operatsiyalarni amalga oshirish mumkin.
+Python tilida sonlarni o'zaro amallar bilan hisoblash, ularni qo'shish, ayirish, ko'paytirish, bo'lish va boshqalar kabi arifmetik operatsiyalarni amalga oshirish mumkin.
