@@ -2,6 +2,7 @@
 Git fork bu jamoa bo'lib ishlayotganda kimning dir kodini o'zining github accountiga ko'chirib olishdir. Bu kodni ko'chirib olishdan maqsad yanada rivojlantirish
 Github Actoin -- vazifalarni tekshirish unchun mo'ljallangan Github texnologiyasi
 # Digit and Number (practicee)
+
 # Introduction to Algorithm
 
 Algoritm - muayyan vazifani bajarish uchun qadam-qadam quyidagi jarayonlarni amalga oshirish tizimi. Algoritmlar, maqbul matematik tizimlar yoki ta'riflar yordamida ifodalangan bo'lishi kerak. Ular avtomatlashtirish, axborot olish va boshqa turli vazifalarni hal qilish uchun ishlatiladi. Algoritmlar dasturiy ta'minotlarning asosiy qismlari va barcha dasturlar va tizimlar boshqarilishida muhim ahamiyatga ega.
