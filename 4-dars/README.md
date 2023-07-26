@@ -9,11 +9,11 @@ Algoritm - muayyan vazifani bajarish uchun qadam-qadam quyidagi jarayonlarni ama
 
 Algoritmlarning turli turlari mavjud:
 
-To'g'ri to'rtburchak (Sequential algorithms): Bu turdagi algoritm tushunchasi odatda bir necha amallar ketma-ketligiga asoslangan. Tizim amallar ketma-ketligini bajarib, bir amalni bajarib, keyingi amalga o'tadi va bunday davom etadi.
+Chiziqli algoritm (Sequential algorithms): Bu turdagi algoritm tushunchasi odatda bir necha amallar ketma-ketligiga asoslangan. Tizim amallar ketma-ketligini bajarib, bir amalni bajarib, keyingi amalga o'tadi va bunday davom etadi.
 
-Shartli algoritmlar (Conditional algorithms): Algoritmning bajarilishi shartlarga bog'liq bo'lgan bo'limlardan iborat. Tizimning bir qismi bajarilishi uchun belgilangan shartlarni tekshirish kerak.
+Tarmoqli algoritmlar (Conditional algorithms): Algoritmning bajarilishi shartlarga bog'liq bo'lgan bo'limlardan iborat. Tizimning bir qismi bajarilishi uchun belgilangan shartlarni tekshirish kerak.
 
-Loop algoritmlari (Cyclic algorithms): Bunday algoritm turlari biror qator amallarni bir necha marta takrorlaydi. Bu qator amallar bir shartga bog'liq holda takrorlanishi mumkin.
+Takrorlanuvchi algoritmlari (Cyclic algorithms): Bunday algoritm turlari biror qator amallarni bir necha marta takrorlaydi. Bu qator amallar bir shartga bog'liq holda takrorlanishi mumkin.
 # Type Conversion
 conversion -- aylantirish
 type() -- bu funksiya berilga item ning turini ko'satadi
